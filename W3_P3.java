@@ -1,3 +1,7 @@
+// Warning!
+// This code is not valid
+// Code which is corrected is W3_P3_2.
+
 import java.util.Collections;
 import java.util.Iterator;
 import java.util.LinkedList;
