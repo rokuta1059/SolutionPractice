@@ -114,6 +114,9 @@ class LinkedList {
         return true;
     }
 }
+
+// LinkedList를 직접 구현하지 않고도 아래 코드를 실행할 수 있게 하는 게
+// 더 좋을 것이라고 생각한다
  
 public class W2_P2 {
  
