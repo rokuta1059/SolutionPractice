@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
 public class W6_P2 {
-
-	public static void main(String[] args) {
+	
+public static void main(String[] args) {
 		
 		Scanner input = new Scanner(System.in);
 		
@@ -19,21 +19,21 @@ public class W6_P2 {
 				mush[i] = Integer.parseInt(mushS[i]);
 			}
 			
-			int k = n-1;
-			for(int i = 0; i < k; i++) {
-				boolean o = false;
+			int k = 0;
+			for(int i = n-1; i > k; i--) {
 				int j = i;
-				while ((j < n-1) &&
-						(mush[j] == mush[j+1] || mush[j] == mush[j+1]-1)) {
+				boolean o = false;
+				while((j > 0) && 
+						(mush[j] == mush[j-1] || mush[j]-1 == mush[j-1])) {
 					int t = mush[j];
-					mush[j] = mush[j+1];
-					mush[j+1] = t;
-					j++;
+					mush[j] = mush[j-1];
+					mush[j-1] = t;
+					j--;
 					o = true;
 				}
 				if(o) {
-					i--;
-					k--;
+					i++;
+					k++;
 				}
 				
 			}
