@@ -41,6 +41,6 @@ public class Work_1463 {
         int tmp = input.nextInt();
         calcValue(tmp);
         System.out.println(minCount);
-
+        input.close();
     }
 }
