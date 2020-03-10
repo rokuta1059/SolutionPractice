@@ -19,6 +19,7 @@ public class Work_9095 {
         for(int i = 0; i < count; i++) {
             System.out.println(arr[input.nextInt()]);
         }
+        input.close();
 
     }
 
