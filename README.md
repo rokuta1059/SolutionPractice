@@ -76,6 +76,7 @@ Python3로 작성된 코드입니다.
 | 2819 | 상근이의 로봇 | 이분 탐색 |
 | 4949 | 균형잡힌 세상 | 스택 |
 | 6198 | 옥상 정원 꾸미기 | 스택 |
+| 9251 | LCS | 다이나믹 프로그래밍 |
 | 10101 | 삼각형 외우기 | 구현 |
 | 10773 | 제로 | 스택 |
 | 12026 | BOJ 거리 | 다이나믹 프로그래밍 |
@@ -92,6 +93,7 @@ HackerRank 사이트에서 Python3로 작성된 코드입니다.
 |:-- |:-- |
 | Candies | 다이나믹 프로그래밍 |
 | Max Subset Sum | 다이나믹 프로그래밍 |
+| Abbreviation | 다이나믹 프로그래밍 |
 | Minimum Absolute Difference in an Array | 그리디 알고리즘 |
 | Luck Balance | 그리디 알고리즘 |
 
