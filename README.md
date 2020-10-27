@@ -91,6 +91,7 @@ HackerRank 사이트에서 Python3로 작성된 코드입니다.
 
 | 이름 | 사용 알고리즘 |
 |:-- |:-- |
+| Arrays: Left Rotation | 배열 |
 | Candies | 다이나믹 프로그래밍 |
 | Max Subset Sum | 다이나믹 프로그래밍 |
 | Abbreviation | 다이나믹 프로그래밍 |
